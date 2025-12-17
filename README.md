@@ -1,2 +1,2 @@
 # calculator
-contains the calculator code
+contains the calculator code main
