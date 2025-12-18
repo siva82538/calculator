@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo " added multiply main"
+echo " added multiply"
