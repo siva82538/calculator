@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "added subtraction"
+echo "added subtraction main"
